@@ -1,6 +1,6 @@
 **Tutorial DADA2**
 
-path <- "C:/Users/marin/OneDrive/Área de Trabalho/MiSeq_SOP
+path <- "C:/Users/marin/OneDrive/Área de Trabalho/MiSeq_SOP 
 
 fnFs <- sort(list.files(path, pattern="_R1_001.fastq", full.names = TRUE))
 fnRs <- sort(list.files(path, pattern="_R2_001.fastq", full.names = TRUE))
