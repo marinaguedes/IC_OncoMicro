@@ -1,4 +1,8 @@
-* Linguagem computacional e ambiente para computação estatística e gráficos.
-* R = linguagem de programação em si.
-* RStudio = Ambiente de Desenvolvimento Integrado interface grafica
-* 
+**Tutorial DADA2**
+
+path <- "C:/Users/marin/OneDrive/Área de Trabalho/MiSeq_SOP
+
+fnFs <- sort(list.files(path, pattern="_R1_001.fastq", full.names = TRUE))
+fnRs <- sort(list.files(path, pattern="_R2_001.fastq", full.names = TRUE))
+
+plotQualityProfile(fnFs[1:2])
