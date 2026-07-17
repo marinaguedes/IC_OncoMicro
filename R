@@ -1,1 +1,7 @@
 save.image() - Salvar espaço de trabalho 
+getwd() - mostra diretórios
+control+ c - cancelar comando
+ctrl+Enter - executar
+
+
+Google Search Console - busca especifica para r 
